@@ -17,7 +17,7 @@ export const projectsData = [
     {
         id: 2,
         name: 'Student Database Management System',
-        description: 'Developed a visually captivating and user-friendly interactive portfolio website, showcasing projects, skills, and accomplishments to effectively demonstrate expertise and enhance professional online presence',
+        description: 'Developed a Student Database Management System (SDMS) using Flask, which streamlined student information management by enabling efficient addition, updating, and retrieval of student records. The system featured secure user authentication, advanced search and filter capabilities, and a user-friendly interface. Utilizing a MySQL database for backend storage, this project significantly reduced administrative workload and improved data accuracy and management efficiency in an educational setting.',
         tools: ['Flask', 'Python', "MySQL", "HTML", "CSS", "Bootstrap"],
         role: 'Full Stack Developer',
         code: '',
@@ -36,7 +36,7 @@ export const projectsData = [
     },
     {
         id: 4,
-        name: 'Weather App',
+        name: 'Weather Application',
         description: " Developed a weather application that provides real-time weather updates, forecasts, and alerts. The app features an intuitive interface, allowing users to view weather conditions for multiple locations, including temperature, humidity, wind speed, and precipitation. It also includes interactive weather maps and the ability to save favorite locations.",
         tools: ['Javascript', 'HTML', 'CSS', 'API integration '],
         code: '',
