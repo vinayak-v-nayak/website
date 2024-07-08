@@ -16,11 +16,5 @@ export const educations = [
     title: "High School",
     duration: "2016 - 2019",
     institution: "Radha Nayak Govt High School Yennehole",
-  },
-  {
-    id: 4,
-    title: "Primary",
-    duration: "2009 - 2016",
-    institution: "Govt Higher Primary School Yennehole",
   }
 ]
